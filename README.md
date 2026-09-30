@@ -1,5 +1,5 @@
-# Perfil 3 - Joshua González
 
+<<<<<<< HEAD
 Aplicación móvil desarrollada con React Native y Expo. Muestra información del estudiante y un catálogo obtenido desde Fake Store API.
 
 ## Datos del estudiante
@@ -22,3 +22,5 @@ Pendiente de agregar enlace de descarga.
 npm install
 npx expo start
 ```
+=======
+>>>>>>> 56ed9d642b7cc39a56ac9f25ddfd416d5e6cacc9
