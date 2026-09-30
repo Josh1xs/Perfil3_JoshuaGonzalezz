@@ -5,8 +5,8 @@ Aplicación móvil desarrollada con React Native y Expo. Muestra información de
 ## Datos del estudiante
 
 - Nombre: Joshua González
-- Carnet: Pendiente de agregar
-- Sección y grupo: Pendiente de agregar
+- Carnet: 2022043
+- Sección y grupo: 2B
 
 ## Video demostrativo
 
